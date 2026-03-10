@@ -13,8 +13,7 @@ ARG TARGETVARIANT
 
 LABEL maintainer="Jonathan Gao <gsmlg.com@gmail.com>"
 
-LABEL org.opencontainers.image.source="https://github.com/gsmlg-dev/Foundation"
-LABEL org.opencontainers.image.source.path="/docker/code-server"
+LABEL org.opencontainers.image.source="https://github.com/gsmlg-ci/code-server"
 LABEL org.opencontainers.image.title="Code-Server"
 LABEL org.opencontainers.image.authors="Jonathan Gao <gsmlg.com@gmail.com>"
 LABEL org.opencontainers.image.description="Code-Server running on top of ubuntu 24.04"
